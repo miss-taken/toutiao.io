@@ -1,0 +1,17 @@
+platform:ios,'8.0'
+
+target 'toutiao.io' do
+
+pod 'AFNetworking'
+pod 'ReactiveCocoa','~>2.5'
+#pod 'Mantle'
+pod 'JSONModel'
+pod 'TTTAttributedLabel', '~> 1.13.4'
+pod 'Aspects', '~> 1.4.1'
+pod 'SDWebImage'
+pod 'Reachability'
+pod 'Masonry', '~> 0.6.4'
+pod 'ReactiveCocoa','~>2.5'
+pod 'NullSafe', '~> 1.2.1'
+
+end

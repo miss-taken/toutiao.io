@@ -1,0 +1,12 @@
+
+/* Class = "UITabBarItem"; title = "精选"; ObjectID = "671-ek-Edk"; */
+"671-ek-Edk.title" = "精选";
+
+/* Class = "UITabBarItem"; title = "发现"; ObjectID = "AhW-SJ-nD0"; */
+"AhW-SJ-nD0.title" = "发现";
+
+/* Class = "UITabBarItem"; title = "订阅"; ObjectID = "DZE-ad-Vsu"; */
+"DZE-ad-Vsu.title" = "订阅";
+
+/* Class = "UITabBarItem"; title = "我的"; ObjectID = "Vqj-Yb-yKG"; */
+"Vqj-Yb-yKG.title" = "我的";
